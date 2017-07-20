@@ -17,6 +17,7 @@ baseurl:          /
 cate:
   misc:			  misc
   tech:			  tech
+  test:			  test
   hidden:     hidden
 
 author:
