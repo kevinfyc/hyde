@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tech
+title: Test
 location: cate
 ---
 
