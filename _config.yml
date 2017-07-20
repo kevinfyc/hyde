@@ -13,6 +13,12 @@ description:      'A Game Developer'
 url:              https://kevinfyc.github.io
 baseurl:          /
 
+#category
+cate:
+  misc:			  misc
+  tech:			  tech
+  hidden:     hidden
+
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
